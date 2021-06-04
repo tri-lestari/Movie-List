@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049849348295",
+    "firebase_url": "https://movielistapp-83e00-default-rtdb.firebaseio.com",
+    "project_id": "movielistapp-83e00",
+    "storage_bucket": "movielistapp-83e00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049849348295:android:c99c1d144219af78a47ee2",
+        "android_client_info": {
+          "package_name": "com.example.movielistproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049849348295-3im4tasei4qfvjv8gkckjl946ofru6io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxtKS1ca2WuB_GlV5fdj_ooNIVXuCadAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049849348295-3im4tasei4qfvjv8gkckjl946ofru6io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

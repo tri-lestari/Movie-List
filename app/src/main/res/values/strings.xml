@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieListProject</string>
+    <string name="all">TODO</string>
+    <string name="name">Final fantasy VII remake</string>
+    <string name="date">2 Maret 2020</string>
+    <string name="title_activity_main">Movie</string>
+    <string name="subtitle_activity_main">2020</string>
+    <string name="title_activity_add">Movie Baru</string>
+    <string name="title_activity_edit">Data Movie</string>
+    <string name="name_form">Nama</string>
+    <string name="date_form">Tanggal</string>
+    <string name="url_form">Url Image</string>
+    <string name="description_form">Description</string>
+    <string name="save">Save</string>
+    <string name="description">Final Fantasy adalah seri permainan RPG konsol dan komputer yang diciptakan oleh Hironobu Sakaguchi dan diproduksi oleh Square Enix.</string>
+</resources>
